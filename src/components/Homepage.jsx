@@ -6,9 +6,9 @@ import { Typography, Row, Col, Stat, Statistic} from 'antd'
 import { useGetCryptosQuery } from '../services/cryptoApi';
 const { Title } = Typography
 const Homepage = () => {
-    // const { data, isFetching } = useGetCryptosQuery()
+    //const { data, isFetching } = useGetCryptosQuery()
     // const globalStats = data?.data?.stats 
-    // console.log(globalStats)
+    //console.log(data)
 
     // if(isFetching) return 'Loading... '
     return (
